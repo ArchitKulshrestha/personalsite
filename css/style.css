@@ -1,7 +1,10 @@
 body{ 
     background-color:#FEFCF3;
     color:#391975;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;}
     
     
 hr{
@@ -41,12 +44,14 @@ table{
     margin-left: 0%;}
       
 .bottom-container{
+  
     margin: 2%;
     background-color:#6af3e1;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     margin-left: 0px;
     margin-right: 0px;
+    margin: 0;
 
 margin-bottom: 0px;
 padding: 50px 0px 50px;}
@@ -98,5 +103,8 @@ li{
     padding: 20px 0px;
   }
        
+  .myimg{
+    width: 150px;
+  }
   
   
